@@ -1,0 +1,5 @@
+INFO: System started
+ERROR: Failed to connect
+INFO: Retrying
+ERROR: Timeout reached
+DEBUG: End of log
